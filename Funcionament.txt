@@ -1,0 +1,10 @@
+Exercici 1
+
+	El programa demana una ruta absoluta, es situa en la arrel i intenta accedir a la ruta especificada.
+	En cas de que existeixi demana un arxiu i el busca a la ruta.
+	Si el troba imprimeix per pantalla informació del arxiu. Sino, s'informa al usuari.
+
+Exercici 2
+	
+	El programa demana dos rutas absolutas; la del arxiu a copiar, i la del directori on copiar-ho.
+	Si la copia es realitza satisfactoriament s'informa a l'usuari. Sino, tambe s'informa i torna a demanar les rutes.
